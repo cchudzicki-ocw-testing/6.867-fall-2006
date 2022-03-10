@@ -1,0 +1,18 @@
+---
+content_type: resource
+description: Lecture notes on Markov chains and hidden Markov models.
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-867-machine-learning-fall-2006/bd962d39492e55697cfa6bb418ae1642_lec19.pdf
+file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
+resourcetype: Document
+title: lec19.pdf
+uid: bd962d39-492e-5569-7cfa-6bb418ae1642
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
+---
